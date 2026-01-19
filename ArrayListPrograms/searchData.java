@@ -18,5 +18,9 @@ public class searchData {
 		System.out.println(al);
 		System.out.println(al.contains(30));
 		System.out.println(al.indexOf(30));
+		
+		Object keyElement= new Student("Shradhha",101);
+		
+//		System.out.println(students.contains(keyElement));
 	}
 }
